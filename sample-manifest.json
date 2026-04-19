@@ -1,12 +1,12 @@
 {
-  "export_job_id": "31fc0628-d104-4c2b-8d5c-0bf5ea490ca7",
+  "export_job_id": "6f934b99-26fa-4b97-a196-d5a850c032c4",
   "id_short": 523116,
-  "published_at": "2026-04-13T19:06:51Z",
+  "published_at": "2026-04-19T07:28:02Z",
   "repo_name": "top-30-active-restaurant-review-whales-in-sacramento-roseville-folsom-ca-metro-are-sample-523116",
   "sample_asset_name": "beamstation_523116_restaurants-us-sacramentorosevillefolsomca_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/523116/beamstation_523116_restaurants-us-sacramentorosevillefolsomca_SAMPLE_DIST.csv",
-  "sample_records": 80,
-  "sample_sha256": "fc04474cb61613a0e3a0e8de2d09814a28d71572db00071aad58011396e1ca5d",
-  "sample_size_bytes": 342738,
-  "total_records": 806
+  "sample_records": 83,
+  "sample_sha256": "9268ab1a758576ab10ecb7429515cbc16a711cd32f5845e8e38a3c22561b7ca6",
+  "sample_size_bytes": 341447,
+  "total_records": 836
 }
