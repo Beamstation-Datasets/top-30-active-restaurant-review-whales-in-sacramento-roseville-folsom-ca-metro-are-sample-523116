@@ -1,6 +1,6 @@
 # Top 30% Active Restaurant Review Whales in Sacramento-Roseville-Folsom, CA Metro Area, US
 
-> Free BeamStation sample export with 60 rows and masked direct-contact fields.
+> Free BeamStation sample export with 126 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `523116` |
 | Location | Sacramento-Roseville-Folsom, CA |
 | Category | Restaurants |
-| Full dataset size | 602 records |
-| Free sample size | 60 records (9.97%) |
-| Last export | 2026-04-22T13:38:15.439407+00:00 |
+| Full dataset size | 1,265 records |
+| Free sample size | 126 records (9.96%) |
+| Last export | 2026-04-29T14:25:12.565919+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-30-active-restaurant-review-whales-in-sacramento-roseville-folsom-ca-metro-are-sample-523116/releases/download/sample-latest/beamstation_523116_restaurants-us-sacramentorosevillefolsomca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
